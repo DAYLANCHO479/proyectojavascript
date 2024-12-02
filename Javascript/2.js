@@ -8,4 +8,4 @@ function contadorVocales(texto) {
     return vocalesNum;
 }
 
-contadorVocales("La base de datos de virus, ha sido actualizada :)"); // Ejemplo de uso
+contadorVocales("La base de datos de virus, ha sido actualizada :)");
